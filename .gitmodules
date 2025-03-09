@@ -1,3 +1,4 @@
 [submodule "idSim"]
 	path = idSim
-	url = /root/idSim
+	url = git@github.com:Kirikirito/idSim.git
+	branch = fix_wwx
